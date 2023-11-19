@@ -11,6 +11,7 @@
 
 <!-- About me -->
 <h3 align="left">About me</h3>
+
 - 🌱 I’m currently learning **The full cycle of DevOps principles**
 
 - 💬 Ask me about **DevOps principles | SDLC | Bash | K8s | Docker | Mobile Development | Kotiln | FLutter**

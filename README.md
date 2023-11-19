@@ -10,7 +10,7 @@
 <img src="https://github.com/AhmedAbdEllatiif/AhmedAbdEllatiif/assets/40568882/0a0f51db-611f-46fc-9fdc-58df2dbe0583" alt="Description of the image">
 
 <!-- About me -->
-
+<h3 align="left">About me</h3>
 - 🌱 I’m currently learning **The full cycle of DevOps principles**
 
 - 💬 Ask me about **DevOps principles | SDLC | Bash | K8s | Docker | Mobile Development | Kotiln | FLutter**
@@ -20,19 +20,9 @@
 - 💬 Know about my experiences **<a href="https://drive.google.com/drive/folders/1qAdpL06lqmXFVT1vbNXVHS8zHkhdi-3H?usp=sharing">My Resume </a>**
 
  
-<!-- Connect with me -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="https://www.facebook.com/profile.php?id=100001249766856" height="40" width="40" /></a>
-</p>
-
-
-
 <!-- Languages and Tools -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <!-- Android -->
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -84,10 +74,19 @@
 
 
 <!-- Trophies -->
-
+<h3 align="left">Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdellatiif" alt="ahmedabdellatiif" /></a> </p>
 
 
 <!-- Contribution -->
-
+<h3 align="left">Contribution</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedabdellatiif&show_icons=true&locale=en&layout=compact" alt="ahmedabdellatiif" /></p>
+
+
+<!-- Connect with me -->
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="https://www.facebook.com/profile.php?id=100001249766856" height="40" width="40" /></a>
+</p>

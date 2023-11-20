@@ -12,13 +12,13 @@
 <!-- About me -->
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **The full cycle of DevOps principles**
+- 🌱 I am currently on a journey to master **The full cycle of DevOps principles**
 
 - 💬 Ask me about **DevOps principles | SDLC | Bash | K8s | Docker | Mobile Development | Kotiln | FLutter**
 
 - 📫 How to reach me **ahmedmohamedaneng@gmail.com**
 
-- 💬 Know about my experiences **<a href="https://drive.google.com/drive/folders/1qAdpL06lqmXFVT1vbNXVHS8zHkhdi-3H?usp=sharing">My Resume </a>**
+- 💬 Know about my experiences **<a href="https://drive.google.com/file/d/1AZE10FsRmQm-7ydhLtbi_jS5yLD5QKjw/view?usp=sharing">My Resume </a>**
 
  
 <!-- Languages and Tools -->

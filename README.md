@@ -88,6 +88,6 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/ahmedmohamedmobiledeveloper" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="https://www.facebook.com/profile.php?id=100001249766856" height="40" width="40" /></a>
 </p>

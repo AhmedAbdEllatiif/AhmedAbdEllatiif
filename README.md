@@ -90,7 +90,7 @@
 <p align="left">
  
  <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" target="blank">
+<a href="https://www.linkedin.com/in/ahmedabdellatif93/" target="blank">
  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ahmedmohamedmobiledeveloper/" height="40" width="40" />
 </a>
 
